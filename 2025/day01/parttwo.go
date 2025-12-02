@@ -1,14 +1,14 @@
-package day{{ printf "%02d" .Day }}
+package day01
 
 import (
 	"bufio"
-  "fmt"
+	"fmt"
 
 	"github.com/k-nox/advent-of-code-solutions/helper"
 )
 
-func Part{{ .Part }}(useSample bool) int {
-	f := helper.OpenInput({{ .Year }}, {{ .Day }}, useSample)
+func PartTwo(useSample bool) int {
+	f := helper.OpenInput(2025, 1, useSample)
 	defer func() {
 		if err := f.Close(); err != nil {
 			panic(fmt.Errorf("failed to close file: %w", err))
@@ -18,7 +18,6 @@ func Part{{ .Part }}(useSample bool) int {
 	scanner := bufio.NewScanner(f)
 
 	for scanner.Scan() {
-	
 	}
 
 	return 0

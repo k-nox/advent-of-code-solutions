@@ -6,6 +6,23 @@ I created the [aoc](https://github.com/k-nox/aoc) tool to manage daily file gene
 
 ## Tracker
 
+### 2025
+
+| Day | Part One Done | Part Two Done |
+| --- | ------------- | ------------- |
+| 1   |               |               |
+| 2   |               |               |
+| 3   |               |               |
+| 4   |               |               |
+| 5   |               |               |
+| 6   |               |               |
+| 7   |               |               |
+| 8   |               |               |
+| 9   |               |               |
+| 10  |               |               |
+| 11  |               |               |
+| 12  |               |               |
+
 ### 2024
 
 | Day | Part One Done | Part Two Done |
