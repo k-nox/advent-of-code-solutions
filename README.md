@@ -10,7 +10,7 @@ I created the [aoc](https://github.com/k-nox/aoc) tool to manage daily file gene
 
 | Day | Part One Done | Part Two Done |
 | --- | ------------- | ------------- |
-| 1   |               |               |
+| 1   | ✅            | ✅            |
 | 2   |               |               |
 | 3   |               |               |
 | 4   |               |               |
