@@ -13,6 +13,17 @@ var CardinalDirections = []Direction{
 	Left,
 }
 
+var AllDirections = []Direction{
+	Up,
+	Right,
+	Down,
+	Left,
+	UpRight,
+	DownRight,
+	UpLeft,
+	DownLeft,
+}
+
 func Left(p image.Point) image.Point {
 	return p.Add(image.Pt(-1, 0))
 }
